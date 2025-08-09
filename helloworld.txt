@@ -1,1 +1,2 @@
 this is a normal text file so i also want  to add few things in this file too 
+i am also changing few things rather than using VIM directly and :wq for writing the message of commit now i am using //git config --global core.editor "code --wait"
